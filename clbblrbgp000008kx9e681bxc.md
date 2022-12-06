@@ -293,3 +293,5 @@ export default function Home() {
 路由总会有不匹配的时候，`NextJS` 给我们提供一个 `404` 页面，但是如果我们想自定义 `404` 页面时，只需要在 `pages` 目录下创建一个 `404.tsx` 组件进行修改即可。
 
 第一部分就先介绍这些
+
+内容及图片均来自 Youtube [CodeVolution](https://www.youtube.com/@Codevolution/featured)

@@ -531,3 +531,5 @@ export async function getServerSideProps(context) {
 很多情况下是不需要去预渲染的，可以通过客户端去请求。最常用的就是在生命周期或 `useEffect` 方法中去获取数据进行渲染
 
 客户端渲染也可以使用 [SWR](https://swr.vercel.app/zh-CN) 进行优化
+
+内容及图片均来自 Youtube [CodeVolution](https://www.youtube.com/@Codevolution/featured)

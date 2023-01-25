@@ -43,7 +43,7 @@ function removeDuplicates(s: string): string {
 };
 ```
 
-## 逆波兰表达式求值
+## 150\. 逆波兰表达式求值
 
 ```typescript
 function evalRPN(tokens: string[]): number {
